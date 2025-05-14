@@ -8,6 +8,7 @@ import SettingsPage from './pages/SettingsPage';
 import ContactsPage from './pages/ContactsPage';
 import NewChatPage from './pages/NewChatPage';
 
+
 function App() {
   return (
     <ThemeProvider theme={darkTheme}>

@@ -2,6 +2,7 @@ import React from 'react';
 import { Box, Avatar, Typography } from '@mui/material';
 import { motion } from 'framer-motion';
 
+
 const Message = ({ message, isMe, showAvatar, avatar }) => {
   return (
     <Box

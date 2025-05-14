@@ -7,7 +7,10 @@ import BottomNavigation from '../components/BottomNavigation/BottomNavigation';
 
 const HomePage = () => {
   return (
-    <Box sx={{ display: 'flex', flexDirection: 'column', height: '100vh' }}>
+    <Box sx={{ display: 'flex', 
+      flexDirection: 'column', 
+      height: '100vh',
+      ml: '280px' }}>
       <AppBar position="static" color="primary">
         <Toolbar>
           <IconButton edge="start" color="inherit" aria-label="menu">

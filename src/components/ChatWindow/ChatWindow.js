@@ -27,4 +27,5 @@ const ChatWindow = ({ messages, chatData, messagesEndRef }) => {
   );
 };
 
+
 export default ChatWindow;
